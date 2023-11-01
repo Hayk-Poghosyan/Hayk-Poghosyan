@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic and highly motivated Entry-Level Python Developer with a strong foundation in Python, Django, and Machine Learning. Excited to use my tech skills for creativity to be a valuable part of exciting projects. A quick learner, team player, and problem solver with a drive for continuous growth and learning.
+Highly motivated Entry-Level Python Developer with a strong foundation in Python, Django, and Machine Learning. Excited to use my tech skills for creativity to be a valuable part of exciting projects. A quick learner, team player, and problem solver with a drive for continuous growth and learning.
 
 
 ## 🌐 Socials:
